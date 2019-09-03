@@ -1,5 +1,5 @@
 # Base image
-FROM memcached:1.5.16-alpine
+FROM memcached:1.5.17-alpine
 
 # Base dependencies
 USER root
